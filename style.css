@@ -974,6 +974,10 @@ body .button {
   .faq .faq_container .faq_list_wrapper h2 {
     font-size: 26px;
   }
+  .faq .faq_container .faq_list_wrapper .faq_list_detail_q {
+    padding: 0 15px;
+    line-height: 1.4;
+  }
   .faq .faq_container .faq_list_wrapper .faq_list_detail_a {
     padding: 0 15px;
     line-height: 1.4;
