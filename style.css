@@ -181,7 +181,7 @@ body .button {
   margin-right: auto;
 }
 
-.main_contents .container .main_contents_title {
+.main_contents .container .main_contents_title h2 {
   padding-top: 71px;
   text-align: center;
   font-size: 32px;
@@ -190,6 +190,7 @@ body .button {
 
 .main_contents .container .main_contents_title .main_contents_sentence {
   font-size: 16px;
+  text-align: center;
   color: #3ba6c9;
   font-weight: bold;
   margin-top: 10px;
